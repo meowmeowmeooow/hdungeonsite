@@ -10,7 +10,7 @@ Need assistance? Here is how to get the help you need.
     Check out the `#rules` channel, which will contain instructions on how to see all the channels.
 
 ??? question "Why can't I send GIFs?"
-    Due to spam, GIFs are limited to new members. By levelling up (or boosting), you unlock the ability to use GIFs and play games.
+    Due to spam, GIFs are limited to new members. By levelling up (or boosting), you unlock the ability to use GIFs and play games. Level 3 is the level needed to send gifs.
 
 ??? question "How can I get more colours and roles?"
     Levelling up!
