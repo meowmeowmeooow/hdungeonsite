@@ -20,7 +20,7 @@ Need assistance? Here is how to get the help you need.
 
 ---
 
-## ❓ All Commands
+## All Commands
 
 ### 💰 Economy
 Commands for managing your Pokécoins and playing games of chance.
